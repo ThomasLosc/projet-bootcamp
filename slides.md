@@ -27,3 +27,8 @@ Ajoutez une autre diapositive dans votre fichier qui explique comment travailler
 ## Fusionner la branche sur main
 
 Ajoutez une diapositive expliquant comment fusionner les modifications d'une branche de fonctionnalité dans la branche principale (main).
+
+
+## Supprimer une branche
+
+Ajoutez une diapositive sur comment supprimer une branche après avoir fusionné ses modifications.
